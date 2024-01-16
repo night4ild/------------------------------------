@@ -1,23 +1,20 @@
 # Индивидуальный проект по теме: Роллы
 
-![Логотип](https://octodex.github.com/images/orderedlistocat.png "Логотип GitHub")
+![Логотип](https://u.9111s.ru/uploads/202304/10/e1729f24bbc86f10cf32f5b8b06408cd.png "Логотип GitHub")
 
-## 📖 About
+## 🍱 Ёбидоёби
 
-[Avalonia](https://avaloniaui.net) is a cross-platform UI framework for dotnet, providing a flexible styling system and supporting a wide range of platforms such as Windows, macOS, Linux, iOS, Android and WebAssembly. Avalonia is mature and production ready and is used by companies, including [Schneider Electric](https://avaloniaui.net/showcase#se), [Unity](https://avaloniaui.net/showcase#unity), [JetBrains](https://avaloniaui.net/showcase#rider) and [GitHub](https://avaloniaui.net/showcase#github).
+В наше время большинство покупок осуществляется через интернет, поэтому интернет-магазин является актуальным и удобным решением для любителей вкусной еды.
+Таким образом, целью индивидуального проекта является разработка универсального веб-приложения для быстрого и удобного заказа роллов из суши-бара
 
-Considered by many to be the spiritual successor to WPF, Avalonia UI provides a familiar, modern development experience for XAML developers creating cross-platform applications. While Avalonia UI is [similar to WPF](https://docs.avaloniaui.net/docs/next/get-started/wpf/), it isn't a 1:1 copy, and you'll find plenty of improvements.
+#### Использование продукта 💻
 
-For those seeking a cross-platform WPF, we have created [Avalonia XPF](https://avaloniaui.net/xpf), enabling WPF applications to run on macOS and Linux with little to no code changes. Avalonia XPF is a commercial product and is licensed per-app, per-platform.
+Для использования продукта нужно установить HTML, CSS, JavaScript.
 
-#### Blog
+#### Установка программы 🤔
 
-To see the latest announcements and read about the state of Avalonia, check out the [Avalonia UI Blog](https://www.avaloniaui.net/Blog/).
+Приложением можно пользоваться в [веб-версии](https://yobidoyobi.ru/) или скачать приложение для [Android](https://ebidoebi-dostavka-rollov.softonic.ru/android) или [IOS](https://ebidoebi-dostavka-rollov.softonic.ru/android)
 
-#### Breaking Changes
+#### Использование приложения 📲
 
-You can also see what [breaking changes](https://github.com/AvaloniaUI/Avalonia/issues/3538) we have planned and what our [past breaking changes](https://github.com/AvaloniaUI/Avalonia/wiki/Breaking-Changes) have been.
-
-#### Awesome Avalonia
-
-[Awesome Avalonia](https://github.com/AvaloniaCommunity/awesome-avalonia) is community-curated list of awesome Avalonia UI tools, libraries, projects and resources. Go and see what people are building with Avalonia!
+[Ёбидоёби](https://yobidoyobi.ru/) очень простое и интуитивное приложение. Для заказа нужно выбрать товар и добавить его в корзину, далее выбрать адрес доставки и оформить заказ. Готово!
